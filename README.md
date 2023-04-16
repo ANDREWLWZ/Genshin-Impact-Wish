@@ -4,6 +4,19 @@
 
 I'm not expert, I can't write clean code, but I try to create this Genshin Impact Wish Simulator. I can claim this is the most Realistic one for web version. However, I still need your feedbacks to improve the wishing experience. If you like this Simulator, please give a star to this repository.
 
+Clone the repository:
+
+1. Open your terminal or command prompt and navigate to the directory where you want to clone the repository.
+Run the command git clone https://github.com/ANDREWLWZ/Genshin-Impact-Wish.git to clone the repository to your local machine.
+Install required dependencies:
+
+2. Navigate to the cloned repository's directory in your terminal or command prompt.
+Run the command npm install to install all the required dependencies.
+Run the application:
+
+3. After the installation is complete, run the command npm run dev to start the application.
+Open your web browser and go to http://localhost:3000 to access the application.
+
 ## Screenshots
 
 #### Main Banner
